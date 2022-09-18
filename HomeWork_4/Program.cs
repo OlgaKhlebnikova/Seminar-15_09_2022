@@ -9,4 +9,4 @@ for (int i = 1; i <= namber; i++)
     if (i %2 == 0)
        Console.Write( i + " ");
      } 
- Console.WriteLine(" Это четные числа в промежутке от 1 до " + namber + ".");
+ Console.WriteLine(" - Это четные числа в промежутке от 1 до " + namber + ".");
